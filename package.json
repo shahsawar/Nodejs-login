@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shahsawar/Nodejs-login/issues"
   },
-  "homepage": "https://github.com/shahsawar/Nodejs-login#readme"
+  "homepage": "https://github.com/shahsawar/Nodejs-login#readme",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
 }
